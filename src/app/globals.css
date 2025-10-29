@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Custom styles for sidebar */
+body.sidebar-open {
+  overflow: hidden;
+}
