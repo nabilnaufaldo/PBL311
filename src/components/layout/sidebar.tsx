@@ -58,7 +58,7 @@ export default function Sidebar() {
       )
     },
     { 
-      href: '#', 
+      href: '/akseskontrol', 
       text: 'Akses Kontrol',
       icon: (
         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -67,7 +67,7 @@ export default function Sidebar() {
       )
     },
     { 
-      href: '#', 
+      href: '/history', 
       text: 'Riwayat & Analisis',
       icon: (
         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
